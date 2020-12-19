@@ -1,8 +1,8 @@
 from pwn import *
 import urllib
 
-# Author: xct
-# Credit: sampriti
+# Author: Humayun Ali Khan
+# Credit: TheEyeOfCyber 
 
 context.arch = 'i386'
 context.log_level = 'debug'
